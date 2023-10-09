@@ -1,4 +1,4 @@
-<h1>Basit web sitesi</h1>
+<h1>NFT TEMALI PROJE</h1>
 
 
 
